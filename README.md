@@ -9,7 +9,7 @@
 | Network   | LSTM | 4x1 Pooling | Gray | Test Acc |
 | --------- | ---- | ----------- | ---- | -------- |
 | SimpleNet | N    | Y           | Y    | 99.37%   |
-| SE-ResNet34 | N    | Y           | Y    | TODO   |
+| SE-ResNet34 | N    | Y           | Y    | 99.73%   |
 
 
 ### Text Recognition Accuracy on [VGG_Text](http://www.robots.ox.ac.uk/~vgg/data/text/)
