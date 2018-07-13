@@ -12,8 +12,8 @@
 | SE-ResNet34 | N    | Y           | Y    | 99.73%   |
 
 
-### Text Recognition Accuracy on [VGG_Text](http://www.robots.ox.ac.uk/~vgg/data/text/)
+### Text Recognition Accuracy on [VGG_Text](http://www.robots.ox.ac.uk/~vgg/data/text/), on the subset of label size<=18
 
 | Network   | LSTM | 4x1 Pooling | Gray | Test Acc |
 | --------- | ---- | ----------- | ---- | -------- |
-| SE-ResNet101 | N    | Y           | N    | TODO  |
+| SimpleNet | Y    | Y           | Y    | TODO  |
