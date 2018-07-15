@@ -16,4 +16,4 @@
 
 | Network   | LSTM | 4x1 Pooling | Gray | Test Acc |
 | --------- | ---- | ----------- | ---- | -------- |
-| SimpleNet | Y    | Y           | Y    | TODO  |
+| SimpleNet | Y    | Y           | Y    | 87.17%  |
